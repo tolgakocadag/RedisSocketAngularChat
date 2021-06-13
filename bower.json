@@ -1,0 +1,17 @@
+{
+  "name": "chat-redis-socket",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Tolga KOCADAG <tolgakocadag@outlook.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/tolgakocadag/RedisSocketAngularChat",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
